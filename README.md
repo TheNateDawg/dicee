@@ -6,6 +6,10 @@ This is the 4th website I created.
 
 [Click here to view the website.](https://thenatedawg.github.io/dicee/)
 
+## Instructions
+
+1. Refresh the page repeatedly to see different dice outcomes. That's all there is to it.
+
 ## Built With
 
 * HTML5
